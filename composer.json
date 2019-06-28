@@ -1,6 +1,6 @@
 {
-    "name": "telegram-bot/api",
-    "description": "PHP Wrapper for Telegram Bot API",
+    "name": "nemutaisama/niative-telegram-api",
+    "description": "Fork of https://github.com/TelegramBot/Api",
     "keywords": [
         "php",
         "telegram",
